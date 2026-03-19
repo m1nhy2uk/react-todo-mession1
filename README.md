@@ -1,5 +1,12 @@
 # 리액트 투두 앱 만들기 미션 레포
 
+## 사용 영상
+
+
+https://github.com/user-attachments/assets/7a0b1191-8b83-4be0-a9d0-aef01accaaae
+
+
+
 ## 목적
 
 1. React 컴포넌트 구조 이해
