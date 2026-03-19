@@ -22,7 +22,6 @@ JavaScript
 - localStorage 저장
 
 ## 프로젝트 구조
-
 ├── components/
 │ ├── TodoForm.jsx
 │ ├── TodoItem.jsx
