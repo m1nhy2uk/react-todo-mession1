@@ -32,17 +32,16 @@ JavaScript
 
     src/
     ├── components/
-    │ ├── TodoForm.jsx # 할 일 입력 폼
-    │ ├── TodoItem.jsx # 개별 할 일 항목
-    │ └── TodoList.jsx # 할 일 목록 렌더링
-    ├── context/
-    │ └── TodoContext.jsx # Context API 전역 상태 제공
+    │ ├── TodoForm.jsx 
+    │ ├── TodoItem.jsx 
+    │ └── TodoList.jsx 
     ├── hooks/
-    │ └── useTodos.js # 할 일 CRUD 로직 Custom Hook
+    │ └── useTodos.js 
     ├── pages/
-    │ ├── Main.jsx # 메인 페이지
-    │ └── Todo.jsx # TODO 관리 페이지
+    │ ├── Main.jsx
+    │ └── Todo.jsx
     ├── utils/
-    │ └── storage.js # 로컬 스토리지 처리
-    ├── App.jsx # 라우팅 설정
-    └── main.jsx # 앱 진입점
+    │ └── storage.js 
+    ├── App.jsx
+    ├── index.css
+    └── main.jsx
